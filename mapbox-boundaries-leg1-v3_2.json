@@ -1,0 +1,12 @@
+{"leg1": {"type": "legislative","level": 1,"PolyTilesetName": "mapbox.boundaries-leg1-v3","PolyLayerName": "boundaries_legislative_1","PointTilesetName": "mapbox.boundaries-legPoints-v3","PointLayerName": "points_legislative_1","data": {
+"CN":{
+},
+"IN":{
+},
+"US":{
+},
+"JP":{
+},
+"all":{
+}
+}}}
